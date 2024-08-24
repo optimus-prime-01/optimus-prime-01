@@ -10,6 +10,7 @@
 </p>
 
 <h3 align="center">Connect with me:</h3>
+
 <p align="center">
   <a href="https://linkedin.com/in/anmol-sinha" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30" /></a>
   <a href="https://kaggle.com/erwinschrondinger" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="30" /></a>
