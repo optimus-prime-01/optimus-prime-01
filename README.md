@@ -6,7 +6,7 @@
   💬 Ask me about <strong>MERN stack, Classical ML, DSA</strong><br>
   📫 How to reach me: <a href="mailto:anmolsinhaamit@gmail.com">anmolsinhaamit@gmail.com</a><br>
   📄 Know about my experiences: <a href="https://drive.google.com/file/d/1iavl4b9dg0C5_cqeoQJ7RuPuYrweSv2B/view?usp=sharing" target="_blank"><strong>Resume</strong></a><br>
-  ⚡ Fun fact: <strong>There’s no place like 127.0.0.1</strong>
+  ⚡ Fun fact: <strong>I spent  more time in debugging than coding. 🐛⌛</strong>
 </p>
 
 <h3>Connect with me:</h3>
