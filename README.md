@@ -48,15 +48,15 @@
 </p>
 
 <p>
-  <a href="https://github.com/anmol9835255787">
-    <img src="https://komarev.com/ghpvc/?username=anmol9835255787&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://github.com/optimus-prime-01 ">
+    <img src="https://komarev.com/ghpvc/?username=optimus-prime-01&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   </a>
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=optimus-prime-01&show_icons=true&locale=en&layout=compact&bg_color=000000" alt="anmol9835255787" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=optimus-prime-01&show_icons=true&locale=en&layout=compact&bg_color=000000" alt="optimus-prime-01 " />
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=anmol9835255787&show_icons=true&locale=en&bg_color=000000&count_private=true&hide_title=true" alt="anmol9835255787" />
+  <img src="https://github-readme-stats.vercel.app/api?username=optimus-prime-01&show_icons=true&locale=en&bg_color=000000&count_private=true&hide_title=true" alt="optimus-prime-01 " />
 </p>
