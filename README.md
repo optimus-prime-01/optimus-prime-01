@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Srijan Jain</h1>
+<h1>Hi 👋,</h1>
 <h3>A passionate developer from IIIT-Allahabad.</h3>
 
 <p>
