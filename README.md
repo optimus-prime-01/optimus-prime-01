@@ -1,5 +1,5 @@
 <h1>Hi 👋,</h1>
-<h3>A passionate developer from IIIT-Allahabad.</h3>
+<h3>A passionate developer.</h3>
 
 <p>
   🌱 I’m a <strong>Full stack developer</strong><br>
