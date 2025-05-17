@@ -1,4 +1,4 @@
-<h1>Hi 👋,</h1>
+<h1>Hi 👋,I am Anmol Sinha.</h1>
 <h3>A passionate developer.</h3>
 
 <p>
