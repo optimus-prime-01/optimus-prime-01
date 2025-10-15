@@ -1,6 +1,6 @@
 
 
-# 💫 Hey,This is Anmol Sinha
+# 💫 Hey,
 <br>A passionate developer from IIIT Allahabad.<br>
 🌱 I’m a Full stack developer<br>
 💬 Ask me about MERN stack, Classical ML, DSA/CP
